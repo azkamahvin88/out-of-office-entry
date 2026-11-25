@@ -1,0 +1,1 @@
+{"description":"Funniest One-Line Out-of-Office Reply — make.fun entry","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"out-of-office-entry","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
